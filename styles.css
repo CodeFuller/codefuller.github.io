@@ -1,0 +1,13 @@
+body {
+  font-size: 1.2em;
+}
+
+.links-list {
+  list-style: none;
+  margin-left: 0.5em;
+  padding-left: 0;
+}
+
+.links-list li {
+  margin-bottom: 0.5em;
+}
