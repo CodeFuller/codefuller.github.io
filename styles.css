@@ -1,13 +1,20 @@
 body {
-  font-size: 1.2em;
+    font-size: 1.2em;
 }
 
-.links-list {
-  list-style: none;
-  margin-left: 0.5em;
-  padding-left: 0;
+.profile-links-list {
+    list-style: none;
+    padding-left: 0;
 }
 
-.links-list li {
-  margin-bottom: 0.5em;
+.profile-links-list li {
+    margin-bottom: 0.5em;
+}
+
+.profile-link {
+    text-decoration: none;
+}
+
+.profile-link:hover {
+    text-decoration: underline;
 }
